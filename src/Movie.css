@@ -1,0 +1,44 @@
+.movies .movie {
+  width: 45%;
+  margin-bottom: 50px;
+}
+.movies .contents__box {
+  width: 100%;
+  background-color: white;
+  display: flex;
+  border-radius: 10px;
+  box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.25),
+    0 8px 16px -8px rgba(0, 0, 0, 0.3), 0 -6px 16px -6px rgba(0, 0, 0, 0.025);
+  word-wrap: break-word;
+}
+
+.movie .poster img {
+  width: 120px;
+  display: block;
+  margin-left: 20px;
+  position: relative;
+  bottom: 20px;
+}
+
+.movie .contents {
+  width: 100%;
+  margin-left: 60px;
+  color: grey;
+}
+.contents .title {
+  margin-bottom: 10px;
+  color: black;
+}
+.contents .year {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 13px;
+}
+.genres {
+  display: flex;
+  list-style: none;
+}
+.genres .genre {
+  margin-right: 10px;
+  font-size: 13px;
+}
