@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//youyou4832.gihub.io/practice_movie/static/css/main.e40992e6.chunk.css",
+    "main.js": "//youyou4832.gihub.io/practice_movie/static/js/main.cd609dad.chunk.js",
+    "main.js.map": "//youyou4832.gihub.io/practice_movie/static/js/main.cd609dad.chunk.js.map",
+    "runtime-main.js": "//youyou4832.gihub.io/practice_movie/static/js/runtime-main.79b6c81d.js",
+    "runtime-main.js.map": "//youyou4832.gihub.io/practice_movie/static/js/runtime-main.79b6c81d.js.map",
+    "static/js/2.73ea3e34.chunk.js": "//youyou4832.gihub.io/practice_movie/static/js/2.73ea3e34.chunk.js",
+    "static/js/2.73ea3e34.chunk.js.map": "//youyou4832.gihub.io/practice_movie/static/js/2.73ea3e34.chunk.js.map",
+    "index.html": "//youyou4832.gihub.io/practice_movie/index.html",
+    "precache-manifest.090a0113118a9dcc456adace6540fa32.js": "//youyou4832.gihub.io/practice_movie/precache-manifest.090a0113118a9dcc456adace6540fa32.js",
+    "service-worker.js": "//youyou4832.gihub.io/practice_movie/service-worker.js",
+    "static/css/main.e40992e6.chunk.css.map": "//youyou4832.gihub.io/practice_movie/static/css/main.e40992e6.chunk.css.map",
+    "static/js/2.73ea3e34.chunk.js.LICENSE.txt": "//youyou4832.gihub.io/practice_movie/static/js/2.73ea3e34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79b6c81d.js",
+    "static/js/2.73ea3e34.chunk.js",
+    "static/css/main.e40992e6.chunk.css",
+    "static/js/main.cd609dad.chunk.js"
+  ]
+}
